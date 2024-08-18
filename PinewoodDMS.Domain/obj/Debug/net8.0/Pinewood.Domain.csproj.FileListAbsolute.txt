@@ -1,0 +1,11 @@
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\Pinewood.Domain.deps.json
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\Pinewood.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\Pinewood.Domain.pdb
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.AssemblyInfoInputs.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.AssemblyInfo.cs
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\refint\Pinewood.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\Pinewood.Domain.pdb
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\ref\Pinewood.Domain.dll

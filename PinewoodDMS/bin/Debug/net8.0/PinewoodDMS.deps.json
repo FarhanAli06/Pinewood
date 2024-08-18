@@ -1,0 +1,149 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PinewoodDMS/1.0.0": {
+        "dependencies": {
+          "FluentValidation.AspNetCore": "11.3.0",
+          "Newtonsoft.Json": "13.0.3",
+          "jQuery.Validation": "1.21.0",
+          "jQuery.Validation.Unobtrusive": "2.0.20710"
+        },
+        "runtime": {
+          "PinewoodDMS.dll": {}
+        }
+      },
+      "FluentValidation/11.5.1": {
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.1.0"
+          }
+        }
+      },
+      "FluentValidation.AspNetCore/11.3.0": {
+        "dependencies": {
+          "FluentValidation": "11.5.1",
+          "FluentValidation.DependencyInjectionExtensions": "11.5.1"
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.3.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+        "dependencies": {
+          "FluentValidation": "11.5.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.1.0"
+          }
+        }
+      },
+      "jQuery/1.4.4": {},
+      "jQuery.Validation/1.21.0": {
+        "dependencies": {
+          "jQuery": "1.4.4"
+        }
+      },
+      "jQuery.Validation.Unobtrusive/2.0.20710": {
+        "dependencies": {
+          "Microsoft.jQuery.Unobtrusive.Validation": "2.0.20710"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {},
+      "Microsoft.jQuery.Unobtrusive.Validation/2.0.20710": {
+        "dependencies": {
+          "jQuery.Validation": "1.21.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PinewoodDMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/11.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "path": "fluentvalidation/11.5.1",
+      "hashPath": "fluentvalidation.11.5.1.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/11.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jtFVgKnDFySyBlPS8bZbTKEEwJZnn11rXXJ2SQnjDhZ56rQqybBg9Joq4crRLz3y0QR8WoOq4iE4piV81w/Djg==",
+      "path": "fluentvalidation.aspnetcore/11.3.0",
+      "hashPath": "fluentvalidation.aspnetcore.11.3.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iWM0LS1MDYX06pcjMEQKqHirl2zkjHlNV23mEJSoR1IZI7KQmTa0RcTtGEJpj5+iHvBCfrzP2mYKM4FtRKVb+A==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.5.1",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512"
+    },
+    "jQuery/1.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kexCeYIZehR5fRjo8CK1sngN5SZEQRFNfCYZHMS1RxwEEiSKetBw/gliYJcLJdJEBB+e9aHqleLCjuaSI7u23g==",
+      "path": "jquery/1.4.4",
+      "hashPath": "jquery.1.4.4.nupkg.sha512"
+    },
+    "jQuery.Validation/1.21.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bXkjFal9Ec4vwirRVF1sQgK5MtDW/o3H22rzocW9+0O9ParIAkrzW9RtRZVMB6J5lo+X7mRduFwi6TzFqrR0pQ==",
+      "path": "jquery.validation/1.21.0",
+      "hashPath": "jquery.validation.1.21.0.nupkg.sha512"
+    },
+    "jQuery.Validation.Unobtrusive/2.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b+1siHUyEjSM3fnPKFO4f19+frMy9JCw2vcOo2LFXfhkw/KTO9qOroDNmpi6TJUYUGIkffgPkNB8IGtph1DTQg==",
+      "path": "jquery.validation.unobtrusive/2.0.20710",
+      "hashPath": "jquery.validation.unobtrusive.2.0.20710.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.jQuery.Unobtrusive.Validation/2.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8UaBqHLsvWMp6Y2wHvQUzfghI+CruAN3lmgojl/hKHTD4NddEFHN9g/Q2j6l5PgczPOBA6LHHC5CqMIKxPC/hg==",
+      "path": "microsoft.jquery.unobtrusive.validation/2.0.20710",
+      "hashPath": "microsoft.jquery.unobtrusive.validation.2.0.20710.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    }
+  }
+}

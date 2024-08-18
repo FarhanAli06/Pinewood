@@ -1,0 +1,13 @@
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\SH.LeaveManagement.Domain.deps.json
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\SH.LeaveManagement.Domain.runtimeconfig.json
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\SH.LeaveManagement.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\bin\Debug\net8.0\SH.LeaveManagement.Domain.pdb
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\refint\SH.LeaveManagement.Domain.dll
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.pdb
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\SH.LeaveManagement.Domain.genruntimeconfig.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.Management.Domain\obj\Debug\net8.0\ref\SH.LeaveManagement.Domain.dll

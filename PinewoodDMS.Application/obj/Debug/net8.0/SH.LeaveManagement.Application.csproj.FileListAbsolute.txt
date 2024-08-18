@@ -1,0 +1,5 @@
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.LeaveManagement.Application\obj\Debug\net8.0\SH.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.LeaveManagement.Application\obj\Debug\net8.0\SH.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.LeaveManagement.Application\obj\Debug\net8.0\SH.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.LeaveManagement.Application\obj\Debug\net8.0\SH.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\sunrise\source\repos\PinewoodDMS\SH.LeaveManagement.Application\obj\Debug\net8.0\SH.LeaveManagement.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "udBHaoh8sl6ypugLtSJaOVUjf40H5Nh1Nh0E5VyDwhhK61sclUeSyQW5fM3RqNH2CJGIS6p+tOG5nmGpAlMc4A==",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\PinewoodDMS\\PinewoodDMS\\PinewoodDMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunrise\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\jquery.validation\\1.21.0\\jquery.validation.1.21.0.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\jquery.validation.unobtrusive\\2.0.20710\\jquery.validation.unobtrusive.2.0.20710.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\2.0.20710\\microsoft.jquery.unobtrusive.validation.2.0.20710.nupkg.sha512",
+    "C:\\Users\\sunrise\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "jQuery.Validation.Unobtrusive 2.0.20710 depends on Microsoft.jQuery.Unobtrusive.Validation (>= 2.0.20613) but Microsoft.jQuery.Unobtrusive.Validation 2.0.20613 was not found. An approximate best match of Microsoft.jQuery.Unobtrusive.Validation 2.0.20710 was resolved.",
+      "libraryId": "Microsoft.jQuery.Unobtrusive.Validation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
